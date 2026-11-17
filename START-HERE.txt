@@ -1,0 +1,13 @@
+JS GOLD & SILVER JEWELLERY WEBSITE
+
+1) FIRST extract this ZIP to a normal folder.
+2) Do NOT open index.html from inside WinRAR / ZIP preview.
+3) Open the extracted folder.
+4) Double-click index.html to view the website.
+5) Open admin.html for the demo admin editor (password: 1234).
+
+The layout update makes the navigation visible and limits oversized hero images on desktop and mobile.
+For the best preview, run: py -m http.server 8000
+Then open: http://localhost:8000
+
+Note: Admin edits in this static version are saved only in the same browser/device.
